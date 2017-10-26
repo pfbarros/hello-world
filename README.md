@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hey party people!
+
+Where's the free beer and the ping pong table?
